@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MACHINE LEARNING
 - 💞️ I’m looking to collaborate on PYTHON PROJECTS
 - 📫 How to reach me E-MAIL ME ON a31yush@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
 <!---
